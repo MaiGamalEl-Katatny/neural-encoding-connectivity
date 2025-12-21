@@ -2,4 +2,4 @@
 # Neural-Encoding-Connectivity
 
 ## Website Link  
-[Visit our website](https://emanehabn.github.io/Neural-Encoding-Connectivity/)
+[Visit our website](https://maigamalel-katatny.github.io/neural-encoding-connectivity/)
